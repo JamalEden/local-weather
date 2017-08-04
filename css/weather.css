@@ -1,0 +1,70 @@
+*{
+    margin: 0px;
+    padding: 0px
+}
+body{
+    background-color:darkslategray;
+    font-family: sans-serif
+}
+ul{
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden
+}
+h1{
+    color: azure;
+    font-family: cursive;
+}
+h1 i{
+    color: chartreuse
+}
+h1 a{
+    color: #dec511
+}
+h1 a:hover{
+    text-decoration: none;
+    color:#dec511
+}
+h3{
+    color: coral
+}
+ul li{
+    display: inline-block;
+    color: aliceblue;
+    width: 10%;
+    margin-right:400px;
+    margin-left:400px;
+    margin-top: 50px;
+}
+i{
+    color: antiquewhite
+}
+.info{
+    font-size: 25px;
+    color:darkorange;
+}
+.weatherIcon{
+    margin: 30px;
+}
+#sunny{
+    color:#dec511
+}
+#rainy{
+    color:#80939a
+}
+#cloudly{
+    color:darkblue
+}
+#snow{
+    color:#FFF
+}
+footer p{
+    color: crimson;
+    margin: 50px;
+    font-size: 20px
+}
+footer a:hover{
+    text-decoration: none;
+    color: darksalmon
+}
